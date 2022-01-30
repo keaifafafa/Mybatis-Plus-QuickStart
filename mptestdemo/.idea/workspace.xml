@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb725d99-91bd-47cc-a220-0941c4c117cb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../C语言/CL_demo/.idea/CL_demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AspectJ/.idea/AspectJ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../AspectJ/aspectj-01-quickstart/aspectj-01-quickstart.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../大学项目/chapter5-security/src/main/java/com/hbpvu/jec/bookstore/catalog/repository/IdNameTransformer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../大学项目/chapter5-security/src/main/java/com/hbpvu/jec/bookstore/catalog/utils/PageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../大学项目/chapter5-security/src/main/java/com/hbpvu/jec/bookstore/commons/util/CopyUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../大学项目/course-space-main02/course-space-main/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../大学项目/review-springboot/review-springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Mybatis-Study/Mybatis-Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/jjwt/jjwt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-client01/springcloud-client01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/springcloud-oauth2-demo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/src/main/java/com/fafa/springcloudoauth2demo01/SpringcloudOauth2Demo01Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/src/main/java/com/fafa/springcloudoauth2demo01/config/AuthorizationServerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/src/main/java/com/fafa/springcloudoauth2demo01/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/src/main/java/com/fafa/springcloudoauth2demo01/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/src/main/java/com/fafa/springcloudoauth2demo01/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo01/src/test/java/com/fafa/springcloudoauth2demo01/SpringcloudOauth2Demo01ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springcloud-oauth2-demo02/springcloud-oauth2-demo02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../OAuth2+SpringSecurity+JWT/springsecurity-oauth2-jwt/springsecurity-oauth2-jwt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring5-Study/Spring5-Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Spring5-Study/spring-09-aop/spring-09-aop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Study/springcloud/springcloud-config-eureka-7001/springcloud-config-eureka-7001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Study/springcloud/springcloud-config-server-3344/springcloud-config-server-3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Study/springcloud/springcloud-consumer-dept-80/springcloud-consumer-dept-80.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Study/springcloud/springcloud-consumer-hystrix-dashboard/springcloud-consumer-hystrix-dashboard.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringCloud-Study/springcloud/springcloud.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/SpringMVC-Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-01-servlet/springmvc-01-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-02-hellomvc/springmvc-02-hellomvc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-03-anno/springmvc-03-anno.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-04-controller/springmvc-04-controller.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-05-json/springmvc-05-json.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-06-ajax/springmvc-06-ajax.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-07-interceptor/springmvc-07-interceptor.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SpringMVC-Study/springmvc-08-file/springmvc-08-file.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ssmStudent/ssmStudent.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/DataStructure/DataStructure01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/FreeFishService/.idea/FreeFishService.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/FreeFishService/oopdemo01/oopdemo01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/GUI编程/image-display/image-display.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/GUI编程/贪吃蛇/GUI编程.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/GUI编程/飞机大战/Mygame0.9/Mygame0.9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/InternetStudy/InternetStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/JavaThreads(idea)/JavaThreads.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/Java_SE_review(idea)/Java_SE_review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/Lambda表达式(idea)/Lambda表达式.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/.metadata/.idea/.metadata.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/java练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Java/编译器入门使用熟悉/demo1/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/大学项目/Javaweb课堂练习/学生管理系统Servlet+jsp+Bean/.idea/学生管理系统Servlet+jsp+Bean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/接单/stumanage/stumanage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/.idea/JavaWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-01-maven02/javaweb-01-maven02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-02-servlet/javaweb-02-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-02-servlet02/javaweb-02-servlet02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-filter/javaweb-filter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-jdbc-03/javaweb-jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-jsp/javaweb-jsp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-session-cookie/javaweb-session-cookie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/javaweb-smbms-01/javaweb-smbms-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/smbms/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/JavaWeb/studentstu/JavaWeb.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../JavaWeb/自学项目/Javaweb拓展/FileUpload&amp;Download/FileUpload&amp;Download.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/爬虫学习/SpiderBiAn/.idea/SpiderBiAn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/爬虫学习/Test0/.idea/Test0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/爬虫学习/workpace1/.idea/workpace1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Python/爬虫学习/workspace0/.idea/workspace0.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../前端学习/HTMLStudy/.idea/HTMLStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../前端学习/HTMLStudy/HTMLStudy.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mptestdemo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Environment/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="D:\Environment\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24OyVXNVrtZydFgw0651efDaZgy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/Environment/Android/SDK" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MptestdemoApplicationTests.findAll">
+    <configuration name="MptestdemoApplicationTests.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mptestdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fafa.mptestdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fafa.mptestdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.fafa.mptestdemo.MptestdemoApplicationTests" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MptestdemoApplicationTests.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mptestdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fafa.mptestdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fafa.mptestdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.fafa.mptestdemo.MptestdemoApplicationTests" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MptestdemoApplicationTests.testDeleteByMap" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mptestdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fafa.mptestdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fafa.mptestdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.fafa.mptestdemo.MptestdemoApplicationTests" />
+      <option name="METHOD_NAME" value="testDeleteByMap" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MptestdemoApplicationTests.testLogicDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mptestdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fafa.mptestdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fafa.mptestdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.fafa.mptestdemo.MptestdemoApplicationTests" />
+      <option name="METHOD_NAME" value="testLogicDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MptestdemoApplicationTests.testMultipleDelete" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mptestdemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fafa.mptestdemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fafa.mptestdemo" />
+      <option name="MAIN_CLASS_NAME" value="com.fafa.mptestdemo.MptestdemoApplicationTests" />
+      <option name="METHOD_NAME" value="testMultipleDelete" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MptestdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mptestdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fafa.mptestdemo.MptestdemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MptestdemoApplicationTests.findAll" />
+        <item itemvalue="JUnit.MptestdemoApplicationTests.testMultipleDelete" />
+        <item itemvalue="JUnit.MptestdemoApplicationTests.testLogicDelete" />
+        <item itemvalue="JUnit.MptestdemoApplicationTests.testAdd" />
+        <item itemvalue="JUnit.MptestdemoApplicationTests.testDeleteByMap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb725d99-91bd-47cc-a220-0941c4c117cb" name="Default Changelist" comment="" />
+      <created>1643515951257</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643515951257</updated>
+      <workItem from="1643515953010" duration="3192000" />
+      <workItem from="1643521809277" duration="1991000" />
+      <workItem from="1643523875007" duration="8612000" />
+      <workItem from="1643537504843" duration="7539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../../../.." />
+    </ignored-roots>
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
